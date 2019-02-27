@@ -1,5 +1,7 @@
 ## Reverse
 
+[TOC]
+
 ### Welcome
 
 Notepad++打开`Welcome`文件，发现文件头为elf。用IDA打开。

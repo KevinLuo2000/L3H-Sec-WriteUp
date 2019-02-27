@@ -1,5 +1,7 @@
 ## Crypto & Misc
 
+[TOC]
+
 ### Picture
 
 Kali Linux下用Steghide分析一下nogamenolife.jpg，发现图片中藏了一个RAR：
