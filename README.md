@@ -1,5 +1,5 @@
 # L3H-Sec-WriteUp
-L3H Sec Recruitment WriteUp(incomplete)
+L3H Sec Recruitment WriteUp (Incomplete)
 
 * Web
   * Web1
